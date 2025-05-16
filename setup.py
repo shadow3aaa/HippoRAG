@@ -4,7 +4,7 @@ with open("README.md", "r") as f:
     long_description = f.read()
 
 setuptools.setup(
-    name="hipporag",
+    name="hipporag-nyabot",
     version="2.0.0-alpha.2",
     author="Bernal Jimenez Gutierrez",
     author_email="jimenezgutierrez.1@osu.edu",
